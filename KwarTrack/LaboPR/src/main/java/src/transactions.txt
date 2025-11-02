@@ -1,0 +1,5 @@
+Expenses|2025-10-19|Food|35.0|taco
+Expenses|2025-10-24|Workout|99.0|weight lifting straps
+Income|2025-10-24|Paycheck|1500.0|
+Expenses|2025-10-24|Workout|199.0|creatine
+Expenses|2025-11-02|Education|80.0|
